@@ -4,7 +4,7 @@
 "Become your own coffee master, effortlessly. Our minimal React app guides you to brewing perfection, no experience needed."
 ```
 
-![Coffee Chemistry]( "Coffee Chemistry")
+![Coffee-Chemistry]( "Coffee-Chemistry")
 
 ___ 
 ### Available Recipes
