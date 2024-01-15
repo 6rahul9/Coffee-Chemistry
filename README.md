@@ -14,9 +14,9 @@ Designed and Built with React, Odometer js & styled components.
 [Live Site](https://coffee-chemistry-hvqp.vercel.app/) |  | [Creator](https://6rahul9.github.io/My-Portfolio-/)
 
 
-![coffee-chemistry screenshot 1](https://github.com/6rahul9/Coffee-Chemistry/assets/97466426/972fc8ca-77f7-47a3-b215-0b1f6b03f6c3)
-![coffee-chemistry screenshot 2](https://github.com/6rahul9/Coffee-Chemistry/assets/97466426/ca9cc31e-3ad9-4757-99f0-a1ce94dff12a)
-
+![coffee-chemistry screenshot 1](https://github.com/6rahul9/Coffee-Chemistry/assets/97466426/bf9fdc1e-f13d-42b6-8aba-8520556f038c)
+![coffee-chemistry screenshot 2](https://github.com/6rahul9/Coffee-Chemistry/assets/97466426/2529ced7-f622-4db6-af0f-89084da3ff9c)
+![coffee-chemistry screenshot 3](https://github.com/6rahul9/Coffee-Chemistry/assets/97466426/ab0f61ab-0aaa-43fd-b34f-dbcc08948038)
 
 
 ```
