@@ -25,7 +25,7 @@ Coffee Chemistry is a React-powered portal unlocking the secrets of brewing the 
 "
 ```
 
-![Coffee-Chemistry]( "Coffee-Chemistry")
+![Coffee-Chemistry]
 
 ___ 
 ### Available Recipes
