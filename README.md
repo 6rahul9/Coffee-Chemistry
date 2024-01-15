@@ -19,11 +19,9 @@ Designed and Built with React, Odometer js & styled components.
 ![coffee-chemistry screenshot 3](https://github.com/6rahul9/Coffee-Chemistry/assets/97466426/ab0f61ab-0aaa-43fd-b34f-dbcc08948038)
 
 
-```
 "
 Coffee Chemistry is a React-powered portal unlocking the secrets of brewing the perfect cup. It's your interactive guide to coffee science, designed to enthrall coffee lovers of all levels. Forget jargon-filled textbooks – discover the fascinating factors shaping coffee flavor through playful elements and engaging content. From bean origin to brewing methods, Coffee Chemistry empowers you to craft your ideal cup, every time. Built with React, Odometer.js, and styled components, it's a blend of beauty and functionality, as delicious as the perfect brew itself.
 "
-```
 
 ![Coffee-Chemistry]
 
